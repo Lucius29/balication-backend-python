@@ -1,0 +1,10 @@
+pip install "fastapi[standard]"
+pip install sqlalchemy
+pip install "psycopg[binary]"
+pip install alembic
+pip install pydantic-settings
+pip install "python-jose[cryptography]"
+pip install "pwdlib[argon2]"
+pip install sqladmin
+pip install itsdangerous
+pip install geoalchemy2
